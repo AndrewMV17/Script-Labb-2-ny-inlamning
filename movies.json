@@ -1,0 +1,47 @@
+[
+    {
+        "titel": "Avatar",
+        "genre": "Sci-fi",
+        "beskrivning": "En förlamad marinsoldat tar kontroll över en utomjordisk kropp."
+    },
+    {
+        "titel": "Mission Impossible",
+        "genre": "Action",
+        "beskrivning": "Agenten Ethan Hunt stoppar globala terrorhot."
+    },
+    {
+        "titel": "Home Alone",
+        "genre": "Komedi",
+        "beskrivning": "En kvarglömd pojke försvarar sitt hem mot tjuvar."
+    },
+    {
+        "titel": "Boyz n the Hood",
+        "genre": "Krimdrama",
+        "beskrivning": "Tre unga män kämpar med gängvåld i Los Angeles."
+    },
+    {
+        "titel": "Friday",
+        "genre": "Komedi",
+        "beskrivning": "Två vänner måste skrapa fram pengar innan kvällen är slut."
+    },
+    {
+        "titel": "Get Rich or Die Tryin",
+        "genre": "Kriminaldrama",
+        "beskrivning": "En skottskadad langare vill bli rappare."
+    },
+    {
+        "titel": "james bond",
+        "genre": "action",
+        "beskrivning": "mi6 agent"
+    },
+    {
+        "titel": "Harry potter chamber of secrets",
+        "genre": "Magic",
+        "beskrivning": "En pojke som är the chosen one"
+    },
+    {
+        "titel": "LO",
+        "genre": "Fantacy",
+        "beskrivning": "jakten efter ringen"
+    }
+]
