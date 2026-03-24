@@ -1,0 +1,52 @@
+[
+    {
+        "titel": "Avatar",
+        "genre": "Sci-fi",
+        "beskrivning": "En förlamad marinsoldat tar kontroll över en utomjordisk kropp."
+    },
+    {
+        "titel": "Mission Impossible",
+        "genre": "Action",
+        "beskrivning": "Agenten Ethan Hunt stoppar globala terrorhot."
+    },
+    {
+        "titel": "Home Alone",
+        "genre": "Komedi",
+        "beskrivning": "En kvarglömd pojke försvarar sitt hem mot tjuvar."
+    },
+    {
+        "titel": "Boyz n the Hood",
+        "genre": "Krimdrama",
+        "beskrivning": "Tre unga män kämpar med gängvåld i Los Angeles."
+    },
+    {
+        "titel": "Friday",
+        "genre": "Komedi",
+        "beskrivning": "Två vänner måste skrapa fram pengar innan kvällen är slut."
+    },
+    {
+        "titel": "Get Rich or Die Tryin",
+        "genre": "Kriminaldrama",
+        "beskrivning": "En skottskadad langare vill bli rappare."
+    },
+    {
+        "titel": "Rush Hour",
+        "genre": "Actionkomedi",
+        "beskrivning": "Två omaka poliser samarbetar för att rädda en flicka."
+    },
+    {
+        "titel": "Marty Supreme",
+        "genre": "Komedi",
+        "beskrivning": "En ambitiös pingis-hustler i 1950-talets New York."
+    },
+    {
+        "titel": "james bond",
+        "genre": "action",
+        "beskrivning": "mi6 agent"
+    },
+    {
+        "titel": "james bond",
+        "genre": "Action",
+        "beskrivning": "britisk mi6 agent"
+    }
+]
